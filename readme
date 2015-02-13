@@ -1,0 +1,21 @@
+/*
+* Melt: a program for semi-randomly progressively pixelsorting
+* 
+* Author: Jonathan Richards, jonrds@gmail.com
+*
+* This is a Processing program for taking an image and turning it
+* into a gif by progressively pixelsorting it. The code has been
+* made available due to requests, but has not been fully documented.
+* Use at your own risk.
+* 
+* No command line usage is available, the program must be partially
+* rewritten for each image so READ THE MODE DESCRIPTIONS and pick
+* a combination you like.
+*
+* An example showcasing the differences between the modes (often
+* subtle) can be found here:
+* http://imgur.com/a/NVbhj
+*
+* Other example melts can be found here:
+* http://imgur.com/a/cJR0x
+*/
